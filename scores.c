@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
+
 int TOTAL;
 
 // the functions of the programe
@@ -16,7 +17,6 @@ int main(void)
     for (int i = 0; i < TOTAL; i++)
     {
         scores[i] = get_int("Score%d: ", i + 1);
-
     }
 
 // printing the average
