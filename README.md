@@ -1,2 +1,2 @@
 # myfiles
-my first project in c 
+my first projects in c 
